@@ -4,7 +4,7 @@
 
 #### 使用方法
 
-见`example`文件夹，及博文。
+见`example`文件夹，及[博文](https://www.cnblogs.com/looyulong/p/11071478.html)。
 
 #### 运行demo
 
